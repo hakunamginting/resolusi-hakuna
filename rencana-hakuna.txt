@@ -1,5 +1,6 @@
 Rencana Hakuna
 - Belajar JS sampe paham
+- Belajar PHP
 - Jadi Fullstack Developer
 - Game Dev ?? Blender?? Omoshiroi
 - Adobe Premier Pro
