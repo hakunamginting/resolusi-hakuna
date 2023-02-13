@@ -1,4 +1,5 @@
 Rencana Hakuna
 - Belajar JS sampe paham
+- Phyton
 - Jadi Fullstack Developer
-- Game Dev ?? Blender?? Omoshiroi
+- Tailwind CSS
